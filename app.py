@@ -35,6 +35,7 @@ with st.sidebar:
     - **aVy**: Vyazovkin Avanzado
     
     **Formato de archivos CSV:**
+                g
     - Columna 1: Tiempo
     - Columna 2: Temperatura (°C)
     - Columna 3: Masa
