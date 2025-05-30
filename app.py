@@ -35,7 +35,7 @@ with st.sidebar:
     - **aVy**: Vyazovkin Avanzado
     
     **Formato de archivos CSV:**
-                g
+
     - Columna 1: Tiempo
     - Columna 2: Temperatura (°C)
     - Columna 3: Masa
@@ -640,6 +640,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666;'>
     <p>🧪 <strong>pICNIK Streamlit App</strong> - Análisis Isoconversional Simplificado</p>
-    <p>Desarrollado para facilitar el uso de la librería pICNIK sin necesidad de programación</p>
+    <p>Desarrollado para hacer accesible el uso de la librería pICNIK</p>
 </div>
 """, unsafe_allow_html=True)
