@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+matplotlib
+scipy
+derivative
+openpyxl  # Para exportar a Excel
+plotly
