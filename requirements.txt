@@ -6,3 +6,5 @@ scipy
 derivative
 openpyxl  # Para exportar a Excel
 plotly
+seaborn
+picnik
