@@ -11,6 +11,30 @@ Una aplicación web interactiva desarrollada con Streamlit para realizar anális
 - **Exportación fácil**: Botones de descarga en cada módulo
 - **Validación de datos**: Mensajes de error y advertencias claros
 
+## 🌐 Aplicación Online (gratis)
+
+Puedes acceder y usar la aplicación web en [https://picnik.streamlit.app/](https://picnik.streamlit.app/)
+
+## 🛠️ Instalación en local 
+
+### Clonación del repositorio
+```bash
+git clone https://github.com/tengorio/picnik_webapp.git
+cd picnik_webapp
+```
+
+### Instala Requisitos previos
+```bash
+pip install requirements.txt
+```
+
+### Ejecutar la aplicación
+```bash
+streamlit run picnik_app.py
+```
+
+La aplicación se abrirá automáticamente en tu navegador en `http://localhost:8501`
+
 ## 🧩 Descripción de los Módulos
 
 ### 1. ⬆️ Carga de Datos y 📊 Resumen Gráfico
@@ -50,26 +74,6 @@ Una aplicación web interactiva desarrollada con Streamlit para realizar anális
   - Programa mixto
 - Predicciones basadas en energías calculadas
 - Exportación de curvas de predicción
-
-## 🛠️ Instalación
-
-### Clonación del repositorio
-```bash
-git clone https://github.com/tengorio/picnik_webapp.git
-cd picnik_webapp
-```
-
-### Instala Requisitos previos
-```bash
-pip install requirements.txt
-```
-
-### Ejecutar la aplicación
-```bash
-streamlit run picnik_app.py
-```
-
-La aplicación se abrirá automáticamente en tu navegador en `http://localhost:8501`
 
 ## 🧑‍💻 Uso
 
